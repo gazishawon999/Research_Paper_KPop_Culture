@@ -26,53 +26,7 @@
 
 ## 📥 Download Research Paper
 
-> 🚀 Click below to view or download the full paper:
-
 👉 ./KPop_Research_Paper_Final_APA.pdf
-
----
-
-## 🧠 Abstract (Summary)
-
-This research explores the influence of **K-Pop and Western culture** on the identity formation of Bangladeshi youth.  
-The study is based on a survey of **50 respondents**, primarily university students.
-
-### 🔍 Key Highlights
-
-- 72% are familiar with K-Pop culture  
-- Most consume global content less than 1 hour per day  
-- 85.7% believe in maintaining cultural balance  
-- Global culture increases open-mindedness and skills  
-- Some concerns include cultural conflict and loss of traditional values  
-
-👉 Overall, youth **selectively adopt global culture while preserving local identity**.
-
----
-
-## 🔬 Methodology
-
-- 📋 Online survey (Google Forms)  
-- 👨‍🎓 Participants: 50 (University students)  
-- 📊 Mixed analysis (Quantitative + Qualitative)  
-
----
-
-## 📈 Key Insights
-
-### ✅ Positive Effects
-- Increased open-mindedness  
-- Skill and language learning motivation  
-- Higher confidence and global exposure  
-
-### ⚠️ Challenges
-- Risk of cultural root loss  
-- Conflict with local traditions  
-- Reduced respect for elders  
-- Academic distraction  
-
----
-
-## 🎯 Conclusion
 
 The study shows that Bangladeshi youth are:
 
